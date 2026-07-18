@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <header>
-  <img src="Pic.jpeg" alt="Photo" style="width:150px; border-radius:50%; margin-bottom:10px;">
+  <img src="Profile.jpeg" style="width:150px; border-radius:50%; margin-bottom:10px;">
     <h1>Muthumeena Arumugam</h1>
     <p>M.Sc Computer Science Graduate</p>
   <p>kanaku832@gmail.com</p>
