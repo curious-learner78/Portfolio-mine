@@ -20,7 +20,7 @@
         <li><strong>Tools:</strong> MS Excel (Pivot Tables, VLOOKUP), Power BI, Jupyter Notebook</li>
         <li><strong>Database:</strong> MySQL, SQL Joins, Aggregations</li>
         <li><strong>Analytics:</strong> Data Cleaning, EDA, Data Visualization</li>
-        <li><strong>AI & Productivity Tools:</strong> ChatGPT, Gemini, Notebook LM</li>
+        <li><strong>AI & Productivity Tools:</strong> ChatGPT, Gemini, Notebook LM,GitHub</li>
     </ul>
 </section>
 
